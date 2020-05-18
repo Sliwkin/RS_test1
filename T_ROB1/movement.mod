@@ -3,5 +3,7 @@ MODULE movement
         ! moove movevmoev
         !
         WaitTime 100;
+        
+        ! nowa linia 
     ENDPROC 
 ENDMODULE

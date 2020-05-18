@@ -4,7 +4,9 @@ MODULE Module1
         
         ! Hello 
         WaitTime 100; 
-        
+        !
+        !
+        !
         
     ENDPROC
 ENDMODULE
